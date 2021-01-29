@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12377" started-at="2021-01-29T07:24:39Z" finished-at="2021-01-29T07:24:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12377" started-at="2021-01-29T07:24:39Z" finished-at="2021-01-29T07:24:51Z">
+      <class name="api_ReqRes.Response_Validator">
+        <test-method status="PASS" signature="test_init()[pri:0, instance:api_ReqRes.Response_Validator@1e88b3c]" name="test_init" is-config="true" duration-ms="527" started-at="2021-01-29T12:54:39Z" finished-at="2021-01-29T12:54:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_init -->
+        <test-method status="PASS" signature="test_get_response_Validator()[pri:0, instance:api_ReqRes.Response_Validator@1e88b3c]" name="test_get_response_Validator" duration-ms="11833" started-at="2021-01-29T12:54:40Z" finished-at="2021-01-29T12:54:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_get_response_Validator -->
+      </class> <!-- api_ReqRes.Response_Validator -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
